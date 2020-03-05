@@ -1,2 +1,3 @@
-# python_challenges
-Challenges from online courses to keep up !
+# Python challenges
+Challenges from online courses to keep up !<br>
+https://www.practicepython.org/
